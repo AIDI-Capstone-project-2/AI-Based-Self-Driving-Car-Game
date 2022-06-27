@@ -5,7 +5,7 @@ Features Running Status
 
 1. Track has been build with Background Graphics and Sound
 2. Model of the car has been created with added Graphics
-3. Controls of the car has been specified
+3. Controls of the car has been specified (it has been set to standard - with arrow keys)
 4. Research work for Training the Model with AI CPU has been successfully completed
 5. Development of the Model has been initiated.
 
